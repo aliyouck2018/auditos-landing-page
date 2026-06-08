@@ -1,3 +1,5 @@
+"use client";
+
 import { useTranslations } from "@/hooks/use-translations";
 
 function Logo({ name, sub }: { name: string; sub?: string }) {
