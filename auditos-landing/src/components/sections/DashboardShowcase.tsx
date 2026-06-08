@@ -450,7 +450,7 @@ function ReportScreen() {
           <div className="flex items-center justify-between border-b border-border pb-3">
             <div>
               <p className="text-sm font-semibold tracking-tight">
-                Independent Auditor's Report
+                Independent Auditor&apos;s Report
               </p>
               <p className="text-[11px] text-muted-foreground">
                 Atlas Financial Group — FY25
@@ -471,7 +471,7 @@ function ReportScreen() {
             <p>
               We conducted our audit in accordance with International Standards
               on Auditing (ISA). Our responsibilities under those standards
-              are further described in the Auditor's Responsibilities section.
+              are further described in the Auditor&apos;s Responsibilities section.
             </p>
           </div>
         </div>
